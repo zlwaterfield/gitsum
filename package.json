@@ -1,0 +1,39 @@
+{
+  "author": {
+    "name": "Zach Waterfield"
+  },
+  "name": "gitsum",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zlwaterfield/gitsum"
+  },
+  "version": "0.0.1",
+  "dependencies": {
+    "browserify": "~3.33.1",
+    "director": "~1.2.3",
+    "envify": "~1.2.1",
+    "express": "~3.3.8",
+    "fluxxor": "~1.5.0",
+    "grunt": "~0.4.5",
+    "grunt-browserify": "~2.0.8",
+    "grunt-concurrent": "~0.4.3",
+    "grunt-contrib-clean": "~0.4.1",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-less": "~0.11.4",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-gh-pages": "~0.9.1",
+    "less": "~1.7.5",
+    "lodash": "~2.4.1",
+    "moment": "~2.6.0",
+    "oboe": "~2.0.2",
+    "optimist": "~0.6.1",
+    "ramda": "~0.7.2",
+    "react": "~0.12.0",
+    "request": "~2.22.0",
+    "superagent": "~0.17.0",
+    "reactify": "~0.15.2",
+    "react-router": "~0.10.2",
+    "mcfly": "0.0.10",
+    "bootstrap": "^3.3.1"
+  }
+}
